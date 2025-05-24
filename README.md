@@ -1,3 +1,7 @@
+⚠️ Note: This repository was created as part of a guided learning path ~3 years ago.
+Some dependencies, CI workflows, or syntax may now be outdated and cause build/test failures.
+The goal of this project was educational: to understand CosmWasm contract structure and logic fundamentals.
+
 # My Custom Boilerplate for Smart Contracts
 
 This project is a customized CosmWasm smart contract boilerplate developed during a technical Web3 course.
